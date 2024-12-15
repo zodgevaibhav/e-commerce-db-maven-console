@@ -1,0 +1,24 @@
+Welcome to E-Commerce
+
+Login
+	User Name :
+	Password  :
+	
+	Login Successful
+	Login Failed
+	
+	
+vzodge/Test@123
+
+AddUser
+	Enter User Name
+	Enter Password
+	Enter Confirm Password
+		If password and confirm password does not match
+			Print Add User Fail becuase of password mismatch
+	Print user details
+
+AddProduct
+	Enter Product Name
+	Enter Product quantity
+	Enter Product price
